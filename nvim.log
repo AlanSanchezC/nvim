@@ -1,0 +1,2 @@
+WRN 2026-09-21T17:30:18.745 ?.12098    server_start:197: Failed to start server: operation not permitted: /var/folders/b6/d272x31j29zfn2qy_blbn42r0000gn/T/nvim.alansanchez/6Zhat0/nvim.12098.0
+WRN 2026-09-21T17:30:18.912 ?.12108    server_start:197: Failed to start server: operation not permitted: /var/folders/b6/d272x31j29zfn2qy_blbn42r0000gn/T/nvim.alansanchez/l8V60Y/nvim.12108.0
